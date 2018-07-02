@@ -1,4 +1,4 @@
-# Deploy on Day One
+git pull origin master# Deploy on Day One
 
 ## Contents
 
